@@ -4,7 +4,7 @@
   Hi, I'm Barita 
 </h2>
 
-<img align="center" width="100%" src="https://i.pinimg.com/736x/09/50/82/0950826ee157e304ecb04e399ece7685.jpg" />
+<img align="center" width="100%" src="https://github.com/BaritaPermana/BaritaPermana/blob/main/Cover-Dark.png" />
 
 ## <p align="center"><h4 align="center"><samp> A Web Developer, A Front-end, A Streamer & A Gamer </samp></h4></p>
 <br>
