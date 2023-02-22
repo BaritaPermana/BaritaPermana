@@ -1,11 +1,5 @@
-<div style="background-image: url('https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/uk/advisor/wp-content/uploads/2020/11/Dark_mode_image.jpg');
-    width:100%;
-    background-size: cover;
-    background-position: center;
-    padding: 0;
-    margin: 0;
-    height: 300px;">
-    </div>
+
+<img align="center" width="100%" src="https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/uk/advisor/wp-content/uploads/2020/11/Dark_mode_image.jpg" /></div>
 - 👋 Hi, I’m @BaritaPermana
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
