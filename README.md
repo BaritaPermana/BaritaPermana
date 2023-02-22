@@ -49,13 +49,13 @@
 ### Github Stats
   
 ![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
+  
+##
 <div>
- <a href="https://github.com/BaritaPermana">
-    <img align="left" height="48%" src="https://github-readme-stats.vercel.app/api?username=BaritaPermana&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/>
+<a>
+   <img witdh="60" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BaritaPermana&theme=tokyonight" />
  </a>
- <a>
-   <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BaritaPermana&theme=tokyonight" />
- </a>
- <img align="right" src="https://github.com/BaritaPermana/BaritaPermana/blob/main/download.jpg" width="40%"/>
+   <img align="right" src="https://github.com/BaritaPermana/BaritaPermana/blob/main/gambar.png" width="15%"/>
+ 
 <div>
 <br>
