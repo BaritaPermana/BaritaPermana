@@ -1,5 +1,5 @@
 
-<img align="center" width="100%" src="https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/uk/advisor/wp-content/uploads/2020/11/Dark_mode_image.jpg" /></div>
+<img align="center" width="100%" src="https://drive.google.com/file/d/1UCgR6HGEioAD4474rxrlmsuLo_mWRgXf/view?usp=share_link" /></div>
 - 👋 Hi, I’m @BaritaPermana
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
