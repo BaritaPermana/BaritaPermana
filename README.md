@@ -1,5 +1,5 @@
 
-<img align="center" width="100%" src="https://drive.google.com/file/d/1UCgR6HGEioAD4474rxrlmsuLo_mWRgXf/view?usp=share_link" /></div>
+<img align="center" width="100%" src="https://drive.google.com/file/d/1UCgR6HGEioAD4474rxrlmsuLo_mWRgXf/view?usp=share_link"></div>
 - 👋 Hi, I’m @BaritaPermana
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
