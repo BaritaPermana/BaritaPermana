@@ -50,12 +50,12 @@
   
 ![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
   
-##
 <div>
 <a>
-   <img witdh="60" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BaritaPermana&theme=tokyonight" />
+   <img witdh="60" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BaritaPermana&theme=tokyonight" />
  </a>
-   <img align="right" src="https://github.com/BaritaPermana/BaritaPermana/blob/main/gambar.png" width="15%"/>
+  <br><br><br>
+   <img align="right" src="https://github.com/BaritaPermana/BaritaPermana/blob/main/gambar1.png" width="12%"/>
  
 <div>
 <br>
