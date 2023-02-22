@@ -11,13 +11,13 @@
 <br>
 <div>
   <a href="https://www.linkedin.com/in/barita-permana-p-301339206/">
-    <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+    <img align="left" alt="akd's Linkdein" width="110px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/BaritaPermana/">
     <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/st_choices/">
-    <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img align="left" alt="akd's Instagram" width="120px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <img align="right" src="https://github.com/BaritaPermana/BaritaPermana/blob/main/download.jpg" width="40%"/>
 </div>
@@ -43,7 +43,7 @@
 - 👷 <b>Upcoming Bangkit Certification in Cloud Computing</b><br><br>
 </div>
 
-<br>
+  
  <hr>
   
 ### Github Stats
