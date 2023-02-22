@@ -27,7 +27,7 @@
   <br>
 
 - 👷 <samp><b>Barita Permana Pakpahan</b>
-- 👨‍🎓 <samp><b>Bachelor in Information System from Bina Insani University</b>
+- 👨‍🎓 <samp>Bachelor in <b>Informatics Engineering</b> from <b>Bina Insani University</b>
 - 💼 <samp>I’m looking for **Part-Time** Opportunities/roles.
 - 🤔 <samp>I’m looking for help with how to excel in Web Developing.
 - ⚡ <samp>Fun fact: I am fast learner but i also forget easily :(
