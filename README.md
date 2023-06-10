@@ -7,7 +7,7 @@
 <img align="center" width="100%" src="https://github.com/BaritaPermana/BaritaPermana/blob/main/Cover-Dark.png" />
 
 <hr>
-<p align="center"><h3 align="center"><samp> A Web Developer, A Front-end, A Streamer & A Gamer </samp></h3></p>
+<p align="center"><h3 align="center"><samp> A Web Developer, A Front-end </samp></h3></p>
 <br>
 <div>
   <a href="https://www.linkedin.com/in/barita-permana-p-301339206/">
